@@ -1,0 +1,14 @@
+C:\Users\Kristijan\Desktop\Codes\C#\Average Number\Average Number\Average Number\obj\Debug\net6.0\Average Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristijan\Desktop\Codes\C#\Average Number\Average Number\Average Number\obj\Debug\net6.0\Average Number.AssemblyInfoInputs.cache
+C:\Users\Kristijan\Desktop\Codes\C#\Average Number\Average Number\Average Number\obj\Debug\net6.0\Average Number.AssemblyInfo.cs
+C:\Users\Kristijan\Desktop\Codes\C#\Average Number\Average Number\Average Number\obj\Debug\net6.0\Average Number.csproj.CoreCompileInputs.cache
+C:\Users\Kristijan\Desktop\Codes\C#\Average Number\Average Number\Average Number\bin\Debug\net6.0\Average Number.exe
+C:\Users\Kristijan\Desktop\Codes\C#\Average Number\Average Number\Average Number\bin\Debug\net6.0\Average Number.deps.json
+C:\Users\Kristijan\Desktop\Codes\C#\Average Number\Average Number\Average Number\bin\Debug\net6.0\Average Number.runtimeconfig.json
+C:\Users\Kristijan\Desktop\Codes\C#\Average Number\Average Number\Average Number\bin\Debug\net6.0\Average Number.dll
+C:\Users\Kristijan\Desktop\Codes\C#\Average Number\Average Number\Average Number\bin\Debug\net6.0\Average Number.pdb
+C:\Users\Kristijan\Desktop\Codes\C#\Average Number\Average Number\Average Number\obj\Debug\net6.0\Average Number.dll
+C:\Users\Kristijan\Desktop\Codes\C#\Average Number\Average Number\Average Number\obj\Debug\net6.0\refint\Average Number.dll
+C:\Users\Kristijan\Desktop\Codes\C#\Average Number\Average Number\Average Number\obj\Debug\net6.0\Average Number.pdb
+C:\Users\Kristijan\Desktop\Codes\C#\Average Number\Average Number\Average Number\obj\Debug\net6.0\Average Number.genruntimeconfig.cache
+C:\Users\Kristijan\Desktop\Codes\C#\Average Number\Average Number\Average Number\obj\Debug\net6.0\ref\Average Number.dll

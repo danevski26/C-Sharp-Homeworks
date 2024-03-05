@@ -1,0 +1,14 @@
+C:\Users\Kristijan\Desktop\Codes\C#\Swap Numbers\Swap Numbers\Swap Numbers\bin\Debug\net6.0\Swap Numbers.exe
+C:\Users\Kristijan\Desktop\Codes\C#\Swap Numbers\Swap Numbers\Swap Numbers\bin\Debug\net6.0\Swap Numbers.deps.json
+C:\Users\Kristijan\Desktop\Codes\C#\Swap Numbers\Swap Numbers\Swap Numbers\bin\Debug\net6.0\Swap Numbers.runtimeconfig.json
+C:\Users\Kristijan\Desktop\Codes\C#\Swap Numbers\Swap Numbers\Swap Numbers\bin\Debug\net6.0\Swap Numbers.dll
+C:\Users\Kristijan\Desktop\Codes\C#\Swap Numbers\Swap Numbers\Swap Numbers\bin\Debug\net6.0\Swap Numbers.pdb
+C:\Users\Kristijan\Desktop\Codes\C#\Swap Numbers\Swap Numbers\Swap Numbers\obj\Debug\net6.0\Swap Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristijan\Desktop\Codes\C#\Swap Numbers\Swap Numbers\Swap Numbers\obj\Debug\net6.0\Swap Numbers.AssemblyInfoInputs.cache
+C:\Users\Kristijan\Desktop\Codes\C#\Swap Numbers\Swap Numbers\Swap Numbers\obj\Debug\net6.0\Swap Numbers.AssemblyInfo.cs
+C:\Users\Kristijan\Desktop\Codes\C#\Swap Numbers\Swap Numbers\Swap Numbers\obj\Debug\net6.0\Swap Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Kristijan\Desktop\Codes\C#\Swap Numbers\Swap Numbers\Swap Numbers\obj\Debug\net6.0\Swap Numbers.dll
+C:\Users\Kristijan\Desktop\Codes\C#\Swap Numbers\Swap Numbers\Swap Numbers\obj\Debug\net6.0\refint\Swap Numbers.dll
+C:\Users\Kristijan\Desktop\Codes\C#\Swap Numbers\Swap Numbers\Swap Numbers\obj\Debug\net6.0\Swap Numbers.pdb
+C:\Users\Kristijan\Desktop\Codes\C#\Swap Numbers\Swap Numbers\Swap Numbers\obj\Debug\net6.0\Swap Numbers.genruntimeconfig.cache
+C:\Users\Kristijan\Desktop\Codes\C#\Swap Numbers\Swap Numbers\Swap Numbers\obj\Debug\net6.0\ref\Swap Numbers.dll
