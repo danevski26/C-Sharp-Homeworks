@@ -1,0 +1,14 @@
+C:\Users\Kristijan\Desktop\Codes\C#\Class 03\Students Array\Students Array\bin\Debug\net6.0\Students Array.exe
+C:\Users\Kristijan\Desktop\Codes\C#\Class 03\Students Array\Students Array\bin\Debug\net6.0\Students Array.deps.json
+C:\Users\Kristijan\Desktop\Codes\C#\Class 03\Students Array\Students Array\bin\Debug\net6.0\Students Array.runtimeconfig.json
+C:\Users\Kristijan\Desktop\Codes\C#\Class 03\Students Array\Students Array\bin\Debug\net6.0\Students Array.dll
+C:\Users\Kristijan\Desktop\Codes\C#\Class 03\Students Array\Students Array\bin\Debug\net6.0\Students Array.pdb
+C:\Users\Kristijan\Desktop\Codes\C#\Class 03\Students Array\Students Array\obj\Debug\net6.0\Students Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristijan\Desktop\Codes\C#\Class 03\Students Array\Students Array\obj\Debug\net6.0\Students Array.AssemblyInfoInputs.cache
+C:\Users\Kristijan\Desktop\Codes\C#\Class 03\Students Array\Students Array\obj\Debug\net6.0\Students Array.AssemblyInfo.cs
+C:\Users\Kristijan\Desktop\Codes\C#\Class 03\Students Array\Students Array\obj\Debug\net6.0\Students Array.csproj.CoreCompileInputs.cache
+C:\Users\Kristijan\Desktop\Codes\C#\Class 03\Students Array\Students Array\obj\Debug\net6.0\Students Array.dll
+C:\Users\Kristijan\Desktop\Codes\C#\Class 03\Students Array\Students Array\obj\Debug\net6.0\refint\Students Array.dll
+C:\Users\Kristijan\Desktop\Codes\C#\Class 03\Students Array\Students Array\obj\Debug\net6.0\Students Array.pdb
+C:\Users\Kristijan\Desktop\Codes\C#\Class 03\Students Array\Students Array\obj\Debug\net6.0\Students Array.genruntimeconfig.cache
+C:\Users\Kristijan\Desktop\Codes\C#\Class 03\Students Array\Students Array\obj\Debug\net6.0\ref\Students Array.dll
