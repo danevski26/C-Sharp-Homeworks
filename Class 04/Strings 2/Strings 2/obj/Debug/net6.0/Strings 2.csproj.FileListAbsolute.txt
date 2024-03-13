@@ -1,0 +1,14 @@
+C:\Users\Kristijan\Desktop\Codes\C#\Class 04\Strings 2\Strings 2\bin\Debug\net6.0\Strings 2.exe
+C:\Users\Kristijan\Desktop\Codes\C#\Class 04\Strings 2\Strings 2\bin\Debug\net6.0\Strings 2.deps.json
+C:\Users\Kristijan\Desktop\Codes\C#\Class 04\Strings 2\Strings 2\bin\Debug\net6.0\Strings 2.runtimeconfig.json
+C:\Users\Kristijan\Desktop\Codes\C#\Class 04\Strings 2\Strings 2\bin\Debug\net6.0\Strings 2.dll
+C:\Users\Kristijan\Desktop\Codes\C#\Class 04\Strings 2\Strings 2\bin\Debug\net6.0\Strings 2.pdb
+C:\Users\Kristijan\Desktop\Codes\C#\Class 04\Strings 2\Strings 2\obj\Debug\net6.0\Strings 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristijan\Desktop\Codes\C#\Class 04\Strings 2\Strings 2\obj\Debug\net6.0\Strings 2.AssemblyInfoInputs.cache
+C:\Users\Kristijan\Desktop\Codes\C#\Class 04\Strings 2\Strings 2\obj\Debug\net6.0\Strings 2.AssemblyInfo.cs
+C:\Users\Kristijan\Desktop\Codes\C#\Class 04\Strings 2\Strings 2\obj\Debug\net6.0\Strings 2.csproj.CoreCompileInputs.cache
+C:\Users\Kristijan\Desktop\Codes\C#\Class 04\Strings 2\Strings 2\obj\Debug\net6.0\Strings 2.dll
+C:\Users\Kristijan\Desktop\Codes\C#\Class 04\Strings 2\Strings 2\obj\Debug\net6.0\refint\Strings 2.dll
+C:\Users\Kristijan\Desktop\Codes\C#\Class 04\Strings 2\Strings 2\obj\Debug\net6.0\Strings 2.pdb
+C:\Users\Kristijan\Desktop\Codes\C#\Class 04\Strings 2\Strings 2\obj\Debug\net6.0\Strings 2.genruntimeconfig.cache
+C:\Users\Kristijan\Desktop\Codes\C#\Class 04\Strings 2\Strings 2\obj\Debug\net6.0\ref\Strings 2.dll

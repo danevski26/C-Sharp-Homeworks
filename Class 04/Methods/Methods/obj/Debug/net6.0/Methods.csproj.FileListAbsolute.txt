@@ -1,0 +1,28 @@
+C:\Users\Kristijan\Desktop\Codes\C#\Class 04\Methods 3\Methods 3\obj\Debug\net6.0\Methods 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristijan\Desktop\Codes\C#\Class 04\Methods 3\Methods 3\obj\Debug\net6.0\Methods 3.AssemblyInfoInputs.cache
+C:\Users\Kristijan\Desktop\Codes\C#\Class 04\Methods 3\Methods 3\obj\Debug\net6.0\Methods 3.AssemblyInfo.cs
+C:\Users\Kristijan\Desktop\Codes\C#\Class 04\Methods 3\Methods 3\obj\Debug\net6.0\Methods 3.csproj.CoreCompileInputs.cache
+C:\Users\Kristijan\Desktop\Codes\C#\Class 04\Methods 3\Methods 3\bin\Debug\net6.0\Methods 3.exe
+C:\Users\Kristijan\Desktop\Codes\C#\Class 04\Methods 3\Methods 3\bin\Debug\net6.0\Methods 3.deps.json
+C:\Users\Kristijan\Desktop\Codes\C#\Class 04\Methods 3\Methods 3\bin\Debug\net6.0\Methods 3.runtimeconfig.json
+C:\Users\Kristijan\Desktop\Codes\C#\Class 04\Methods 3\Methods 3\bin\Debug\net6.0\Methods 3.dll
+C:\Users\Kristijan\Desktop\Codes\C#\Class 04\Methods 3\Methods 3\bin\Debug\net6.0\Methods 3.pdb
+C:\Users\Kristijan\Desktop\Codes\C#\Class 04\Methods 3\Methods 3\obj\Debug\net6.0\Methods 3.dll
+C:\Users\Kristijan\Desktop\Codes\C#\Class 04\Methods 3\Methods 3\obj\Debug\net6.0\refint\Methods 3.dll
+C:\Users\Kristijan\Desktop\Codes\C#\Class 04\Methods 3\Methods 3\obj\Debug\net6.0\Methods 3.pdb
+C:\Users\Kristijan\Desktop\Codes\C#\Class 04\Methods 3\Methods 3\obj\Debug\net6.0\Methods 3.genruntimeconfig.cache
+C:\Users\Kristijan\Desktop\Codes\C#\Class 04\Methods 3\Methods 3\obj\Debug\net6.0\ref\Methods 3.dll
+C:\Users\Kristijan\Desktop\Codes\C#\Class 04\Methods\Methods\bin\Debug\net6.0\Methods.exe
+C:\Users\Kristijan\Desktop\Codes\C#\Class 04\Methods\Methods\bin\Debug\net6.0\Methods.deps.json
+C:\Users\Kristijan\Desktop\Codes\C#\Class 04\Methods\Methods\bin\Debug\net6.0\Methods.runtimeconfig.json
+C:\Users\Kristijan\Desktop\Codes\C#\Class 04\Methods\Methods\bin\Debug\net6.0\Methods.dll
+C:\Users\Kristijan\Desktop\Codes\C#\Class 04\Methods\Methods\bin\Debug\net6.0\Methods.pdb
+C:\Users\Kristijan\Desktop\Codes\C#\Class 04\Methods\Methods\obj\Debug\net6.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristijan\Desktop\Codes\C#\Class 04\Methods\Methods\obj\Debug\net6.0\Methods.AssemblyInfoInputs.cache
+C:\Users\Kristijan\Desktop\Codes\C#\Class 04\Methods\Methods\obj\Debug\net6.0\Methods.AssemblyInfo.cs
+C:\Users\Kristijan\Desktop\Codes\C#\Class 04\Methods\Methods\obj\Debug\net6.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Kristijan\Desktop\Codes\C#\Class 04\Methods\Methods\obj\Debug\net6.0\Methods.dll
+C:\Users\Kristijan\Desktop\Codes\C#\Class 04\Methods\Methods\obj\Debug\net6.0\refint\Methods.dll
+C:\Users\Kristijan\Desktop\Codes\C#\Class 04\Methods\Methods\obj\Debug\net6.0\Methods.pdb
+C:\Users\Kristijan\Desktop\Codes\C#\Class 04\Methods\Methods\obj\Debug\net6.0\Methods.genruntimeconfig.cache
+C:\Users\Kristijan\Desktop\Codes\C#\Class 04\Methods\Methods\obj\Debug\net6.0\ref\Methods.dll
