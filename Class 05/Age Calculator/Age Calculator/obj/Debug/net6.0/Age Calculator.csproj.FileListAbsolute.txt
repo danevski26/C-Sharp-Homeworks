@@ -1,0 +1,14 @@
+C:\Users\Kristijan\Desktop\Codes\C#\Class 05\Age Calculator\Age Calculator\obj\Debug\net6.0\Age Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristijan\Desktop\Codes\C#\Class 05\Age Calculator\Age Calculator\obj\Debug\net6.0\Age Calculator.AssemblyInfoInputs.cache
+C:\Users\Kristijan\Desktop\Codes\C#\Class 05\Age Calculator\Age Calculator\obj\Debug\net6.0\Age Calculator.AssemblyInfo.cs
+C:\Users\Kristijan\Desktop\Codes\C#\Class 05\Age Calculator\Age Calculator\obj\Debug\net6.0\Age Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Kristijan\Desktop\Codes\C#\Class 05\Age Calculator\Age Calculator\bin\Debug\net6.0\Age Calculator.exe
+C:\Users\Kristijan\Desktop\Codes\C#\Class 05\Age Calculator\Age Calculator\bin\Debug\net6.0\Age Calculator.deps.json
+C:\Users\Kristijan\Desktop\Codes\C#\Class 05\Age Calculator\Age Calculator\bin\Debug\net6.0\Age Calculator.runtimeconfig.json
+C:\Users\Kristijan\Desktop\Codes\C#\Class 05\Age Calculator\Age Calculator\bin\Debug\net6.0\Age Calculator.dll
+C:\Users\Kristijan\Desktop\Codes\C#\Class 05\Age Calculator\Age Calculator\bin\Debug\net6.0\Age Calculator.pdb
+C:\Users\Kristijan\Desktop\Codes\C#\Class 05\Age Calculator\Age Calculator\obj\Debug\net6.0\Age Calculator.dll
+C:\Users\Kristijan\Desktop\Codes\C#\Class 05\Age Calculator\Age Calculator\obj\Debug\net6.0\refint\Age Calculator.dll
+C:\Users\Kristijan\Desktop\Codes\C#\Class 05\Age Calculator\Age Calculator\obj\Debug\net6.0\Age Calculator.pdb
+C:\Users\Kristijan\Desktop\Codes\C#\Class 05\Age Calculator\Age Calculator\obj\Debug\net6.0\Age Calculator.genruntimeconfig.cache
+C:\Users\Kristijan\Desktop\Codes\C#\Class 05\Age Calculator\Age Calculator\obj\Debug\net6.0\ref\Age Calculator.dll

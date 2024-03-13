@@ -1,0 +1,14 @@
+C:\Users\Kristijan\Desktop\Codes\C#\Class 05\Dog\Dog\obj\Debug\net6.0\Dog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristijan\Desktop\Codes\C#\Class 05\Dog\Dog\obj\Debug\net6.0\Dog.AssemblyInfoInputs.cache
+C:\Users\Kristijan\Desktop\Codes\C#\Class 05\Dog\Dog\obj\Debug\net6.0\Dog.AssemblyInfo.cs
+C:\Users\Kristijan\Desktop\Codes\C#\Class 05\Dog\Dog\obj\Debug\net6.0\Dog.csproj.CoreCompileInputs.cache
+C:\Users\Kristijan\Desktop\Codes\C#\Class 05\Dog\Dog\bin\Debug\net6.0\Dog.exe
+C:\Users\Kristijan\Desktop\Codes\C#\Class 05\Dog\Dog\bin\Debug\net6.0\Dog.deps.json
+C:\Users\Kristijan\Desktop\Codes\C#\Class 05\Dog\Dog\bin\Debug\net6.0\Dog.runtimeconfig.json
+C:\Users\Kristijan\Desktop\Codes\C#\Class 05\Dog\Dog\bin\Debug\net6.0\Dog.dll
+C:\Users\Kristijan\Desktop\Codes\C#\Class 05\Dog\Dog\bin\Debug\net6.0\Dog.pdb
+C:\Users\Kristijan\Desktop\Codes\C#\Class 05\Dog\Dog\obj\Debug\net6.0\Dog.dll
+C:\Users\Kristijan\Desktop\Codes\C#\Class 05\Dog\Dog\obj\Debug\net6.0\refint\Dog.dll
+C:\Users\Kristijan\Desktop\Codes\C#\Class 05\Dog\Dog\obj\Debug\net6.0\Dog.pdb
+C:\Users\Kristijan\Desktop\Codes\C#\Class 05\Dog\Dog\obj\Debug\net6.0\Dog.genruntimeconfig.cache
+C:\Users\Kristijan\Desktop\Codes\C#\Class 05\Dog\Dog\obj\Debug\net6.0\ref\Dog.dll
